@@ -122,6 +122,17 @@ header {
   vertical-align: middle;
 }
 
+/* sezione contact */
+
+.form-horizontal .control-label {
+  text-align: left;
+}
+
+#contact #message {
+  font-size: 14px;
+  font-weight: 700;
+}
+
 
 
 

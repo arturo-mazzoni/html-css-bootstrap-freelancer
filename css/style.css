@@ -1,0 +1,155 @@
+.debug [class*='col-']{
+  background-color: red;
+  height: 200px;
+  border:1px solid black;
+}
+
+/* tipografy */
+h1 {
+  font-size: 60px;
+  text-transform: uppercase;
+}
+
+/* riutilizzabili */
+
+.width_100 {
+  width: 100%;
+}
+
+.ms_green {
+  background-color: #1abc9c;
+}
+
+.ms_text_white {
+  color: white;
+}
+
+.ms_text-blue {
+  color: #2c3e50;
+}
+
+.ms_padd_90 {
+  padding: 90px 0;
+}
+
+.ms_margin_20 {
+  margin: 20px 0;
+}
+
+.ms_upper {
+  text-transform: uppercase;
+}
+
+.ms_bord_rad {
+  border-radius: 10px;
+}
+
+/* hedaer */
+header {
+  height: 90px;
+}
+
+.navbar-header a {
+  font-size: 25px;
+  font-weight: bold;
+}
+
+#bs-example-navbar-collapse-1 ul li a {
+  font-weight: bold;
+}
+
+.navbar.ms_navbar{
+  background-color: #2c3e50;
+  border:0;
+  margin-bottom: 0;
+  padding: 20px 0;
+}
+
+.navbar.ms_navbar .navbar-brand,
+.navbar.ms_navbar .navbar-nav li a{
+  color:white;
+  text-transform: uppercase;
+}
+
+.navbar.ms_navbar .navbar-nav li a:hover{
+  color:#1abc9c;
+}
+
+/* jumbotron */
+.ms_star:before,
+.ms_star:after {
+  content: '';
+  display: inline-block;
+  width: 15%;
+  height: 4px;
+  border-radius:2px;
+  background-color: white;
+  margin: 0 20px;
+}
+
+.ms_star i {
+  font-size: 30px;
+  vertical-align: middle;
+}
+
+/* main */
+
+/* sezione portfolio */
+
+#portfolio .container .row .col-xs-12 h2 {
+  font-size: 40px;
+  margin-top: 60px;
+}
+
+.ms_star_2:before,
+.ms_star_2:after {
+  content: '';
+  display: inline-block;
+  width: 15%;
+  height: 4px;
+  border-radius:2px;
+  background-color: #2c3e50;
+  margin: 0 20px;
+}
+
+.ms_star_2 i {
+  font-size: 30px;
+  vertical-align: middle;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+dsfdsfrtaefg

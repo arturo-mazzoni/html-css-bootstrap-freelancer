@@ -36,7 +36,6 @@ h1 {
   padding: 50px 0;
 }
 
-
 .ms_margin_20 {
   margin: 20px 0;
 }
@@ -47,6 +46,18 @@ h1 {
 
 .ms_bord_rad {
   border-radius: 10px;
+}
+
+.ms_border_none {
+  border-top: none;
+  border-left: none;
+  border-right: none;
+  /* border-bottom: 1px solid black; */
+  border-radius: none;
+}
+
+.box_shadow_none {
+  box-shadow: none;
 }
 
 /* hedaer */
